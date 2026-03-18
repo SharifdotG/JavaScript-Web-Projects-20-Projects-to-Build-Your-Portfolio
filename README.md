@@ -8,7 +8,8 @@ This repository contains the projects from the "JavaScript Web Projects 20 Proje
 
 - [x] Section 1: Introduction
 - [x] Section 2: Developer Setup
-- [ ] [*Section 3: Quote Generator*](/Section%203%20-%20Quote%20Generator/)
+- [x] [Section 3: Quote Generator](/Section%203%20-%20Quote%20Generator/)
+  - Live Demo: [**https://sharifdotg-quote-generator.vercel.app/**](https://sharifdotg-quote-generator.vercel.app/)
 - [ ] Section 4: Infinity Scroll
 - [ ] Section 5: Picture In Picture
 - [ ] Section 6: Joke Teller
