@@ -37,10 +37,6 @@ This repository contains the projects from the "JavaScript Web Projects 20 Proje
 - [ ] Section 26: Appendix: CORS Issues
 - [ ] Section 27: BONUS SECTION
 
-## Tasks
-
-No tasks are assigned yet.
-
 ## Course Link
 
 [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume) - by Andrei Neagoie and Jacinto Wong on Udemy.
