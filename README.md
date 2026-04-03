@@ -18,7 +18,7 @@ This repository contains the projects from the "JavaScript Web Projects 20 Proje
   - Live Demo: [**https://sharifdotg-joke-teller.vercel.app/**](https://sharifdotg-joke-teller.vercel.app/)
 - [x] [Section 7: Light & Dark Mode](/Section%207%20-%20Light%20and%20Dark%20Mode/)
   - Live Demo: [**https://sharifdotg-light-dark-mode.vercel.app/**](https://sharifdotg-light-dark-mode.vercel.app/)
-- [ ] Section 8: Animated Template
+- [ ] [Section 8: Animated Template (Currently Doing)](/Section%208%20-%20Animated%20Template/)
 - [ ] Section 9: Navigation Nation
 - [ ] Section 10: Music Player
 - [ ] Section 11: Custom Countdown
