@@ -14,8 +14,10 @@ This repository contains the projects from the "JavaScript Web Projects 20 Proje
   - Live Demo: [**https://sharifdotg-infinity-scroll.vercel.app/**](https://sharifdotg-infinity-scroll.vercel.app/)
 - [x] [Section 5: Picture In Picture](/Section%205%20-%20Picture%20In%20Picture/)
   - Live Demo: [**https://sharifdotg-picture-in-picture.vercel.app/**](https://sharifdotg-picture-in-picture.vercel.app/)
-- [ ] Section 6: Joke Teller
-- [ ] Section 7: Light & Dark Mode
+- [x] [Section 6: Joke Teller](/Section%206%20-%20Joke%20Teller/)
+  - Live Demo: [**https://sharifdotg-joke-teller.vercel.app/**](https://sharifdotg-joke-teller.vercel.app/)
+- [x] [Section 7: Light & Dark Mode](/Section%207%20-%20Light%20and%20Dark%20Mode/)
+  - Live Demo: [**https://sharifdotg-light-dark-mode.vercel.app/**](https://sharifdotg-light-dark-mode.vercel.app/)
 - [ ] Section 8: Animated Template
 - [ ] Section 9: Navigation Nation
 - [ ] Section 10: Music Player
