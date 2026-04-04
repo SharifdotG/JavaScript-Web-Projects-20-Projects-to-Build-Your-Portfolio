@@ -18,10 +18,13 @@ This repository contains the projects from the "JavaScript Web Projects 20 Proje
   - Live Demo: [**https://sharifdotg-joke-teller.vercel.app/**](https://sharifdotg-joke-teller.vercel.app/)
 - [x] [Section 7: Light & Dark Mode](/Section%207%20-%20Light%20and%20Dark%20Mode/)
   - Live Demo: [**https://sharifdotg-light-dark-mode.vercel.app/**](https://sharifdotg-light-dark-mode.vercel.app/)
-- [ ] [Section 8: Animated Template (Currently Doing)](/Section%208%20-%20Animated%20Template/)
-- [ ] Section 9: Navigation Nation
-- [ ] Section 10: Music Player
-- [ ] Section 11: Custom Countdown
+- [x] [Section 8: Animated Template](/Section%208%20-%20Animated%20Template/)
+  - Live Demo: [**https://sharifdotg-animated-template.vercel.app/**](https://sharifdotg-animated-template.vercel.app/)
+- [x] [Section 9: Navigation Nation](/Section%209%20-%20Navigation%20Nation/)
+  - Live Demo: [**https://sharifdotg-navigation-nation.vercel.app/**](https://sharifdotg-navigation-nation.vercel.app/)
+- [x] [Section 10: Music Player](/Section%2010%20-%20Music%20Player/)
+  - Live Demo: [**https://sharifdotg-music-player.vercel.app/**](https://sharifdotg-music-player.vercel.app/)
+- [ ] [*Section 11: Custom Countdown (Currently Doing)*](/Section%2011%20-%20Custom%20Countdown/)
 - [ ] Section 12: Book Keeper
 - [ ] Section 13: Video Player
 - [ ] Section 14: Form Validator
