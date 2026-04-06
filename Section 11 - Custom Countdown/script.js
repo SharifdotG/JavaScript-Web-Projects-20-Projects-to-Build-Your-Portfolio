@@ -35,8 +35,10 @@ function updateDOM() {
     const hours = Math.floor((distance % day) / hour);
     const minutes = Math.floor((distance % hour) / minute);
     const seconds = Math.floor((distance % minute) / second);
+
     // Hide Input
     inputContainer.hidden = true;
+
     // If the countdown has ended, show final state
     if (distance < 0) {
       countdownEl.hidden = true;
@@ -58,6 +60,7 @@ function updateDOM() {
 
 function updateCountdown(e) {
   e.preventDefault();
+
   // Set title and date, save to localStorage
   countdownTitle = e.srcElement[0].value;
   countdownDate = e.srcElement[1].value;
@@ -66,6 +69,7 @@ function updateCountdown(e) {
     date: countdownDate,
   };
   localStorage.setItem("countdown", JSON.stringify(savedCountdown));
+
   // Check if no date entered
   if (countdownDate === "") {
     alert("Please select a date for the countdown.");
@@ -81,8 +85,10 @@ function reset() {
   countdownEl.hidden = true;
   completeEl.hidden = true;
   inputContainer.hidden = false;
+
   // Stop the countdown
   clearInterval(countdownActive);
+
   // Reset values, remove localStorage item
   countdownTitle = "";
   countdownDate = "";
