@@ -32,9 +32,12 @@ This repository contains the projects from the "JavaScript Web Projects 20 Proje
   - Live Demo: [**https://sharifdotg-video-player.vercel.app/**](https://sharifdotg-video-player.vercel.app/)
 - [x] [Section 14: Form Validator](/Section%2014%20-%20Form%20Validator/)
   - Live Demo: [**https://sharifdotg-form-validator.vercel.app/**](https://sharifdotg-form-validator.vercel.app/)
-- [ ] Section 15: Spock Rock Game
-- [ ] Section 16: NASA APOD
-- [ ] Section 17: Math Sprint Game
+- [x] [Section 15: Spock Rock Game](/Section%2015%20-%20Spock%20Rock%20Game/)
+  - Live Demo: [**https://sharifdotg-spock-rock-game.vercel.app/**](https://sharifdotg-spock-rock-game.vercel.app/)
+- [x] [Section 16: NASA APOD](/Section%2016%20-%20NASA%20APOD/)
+  - Live Demo: [**https://sharifdotg-nasa-apod.vercel.app/**](https://sharifdotg-nasa-apod.vercel.app/)
+- [x] [Section 17: Math Sprint Game](/Section%2017%20-%20Math%20Sprint%20Game/)
+  - Live Demo: [**https://sharifdotg-math-sprint-game.vercel.app/**](https://sharifdotg-math-sprint-game.vercel.app/)
 - [ ] Section 18: Drag n' Drop
 - [ ] Section 19: Calculator
 - [ ] Section 20: Splash Page
