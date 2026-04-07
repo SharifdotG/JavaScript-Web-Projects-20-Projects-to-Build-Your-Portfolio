@@ -30,7 +30,7 @@ This repository contains the projects from the "JavaScript Web Projects 20 Proje
   - Live Demo: [**https://sharifdotg-book-keeper.vercel.app/**](https://sharifdotg-book-keeper.vercel.app/)
 - [x] [Section 13: Video Player](/Section%2013%20-%20Video%20Player/)
   - Live Demo: [**https://sharifdotg-video-player.vercel.app/**](https://sharifdotg-video-player.vercel.app/)
-- [ ] Section 14: Form Validator
+- [ ] [*Section 14: Form Validator (Currently in Progress)*](/Section%2014%20-%20Form%20Validator/)
 - [ ] Section 15: Spock Rock Game
 - [ ] Section 16: NASA APOD
 - [ ] Section 17: Math Sprint Game
