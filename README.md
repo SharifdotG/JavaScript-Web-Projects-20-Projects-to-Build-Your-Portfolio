@@ -38,10 +38,13 @@ This repository contains the projects from the "JavaScript Web Projects 20 Proje
   - Live Demo: [**https://sharifdotg-nasa-apod.vercel.app/**](https://sharifdotg-nasa-apod.vercel.app/)
 - [x] [Section 17: Math Sprint Game](/Section%2017%20-%20Math%20Sprint%20Game/)
   - Live Demo: [**https://sharifdotg-math-sprint-game.vercel.app/**](https://sharifdotg-math-sprint-game.vercel.app/)
-- [ ] Section 18: Drag n' Drop
-- [ ] Section 19: Calculator
-- [ ] Section 20: Splash Page
-- [ ] Section 21: Paint Clone
+- [x] [Section 18: Drag n' Drop](/Section%2018%20-%20Drag%20n'%20Drop/)
+  - Live Demo: [**https://sharifdotg-drag-n-drop.vercel.app/**](https://sharifdotg-drag-n-drop.vercel.app/)
+- [x] [Section 19: Calculator](/Section%2019%20-%20Calculator/)
+  - Live Demo: [**https://sharifdotg-calculator.vercel.app/**](https://sharifdotg-calculator.vercel.app/)
+- [x] [Section 20: Splash Page](/Section%2020%20-%20Splash%20Page/)
+  - Live Demo: [**https://sharifdotg-splash-page.vercel.app/**](https://sharifdotg-splash-page.vercel.app/)
+- [ ] [*Section 21: Paint Clone (Currently In Progress)*](/Section%2021%20-%20Paint%20Clone/)
 - [ ] Section 22: Pong
 - [ ] Section 23: Where To Go From Here?
 - [ ] Section 24: Appendix: How JavaScript Works
