@@ -44,8 +44,9 @@ This repository contains the projects from the "JavaScript Web Projects 20 Proje
   - Live Demo: [**https://sharifdotg-calculator.vercel.app/**](https://sharifdotg-calculator.vercel.app/)
 - [x] [Section 20: Splash Page](/Section%2020%20-%20Splash%20Page/)
   - Live Demo: [**https://sharifdotg-splash-page.vercel.app/**](https://sharifdotg-splash-page.vercel.app/)
-- [ ] [*Section 21: Paint Clone (Currently In Progress)*](/Section%2021%20-%20Paint%20Clone/)
-- [ ] Section 22: Pong
+- [x] [*Section 21: Paint Clone*](/Section%2021%20-%20Paint%20Clone/)
+  - Live Demo: [**https://sharifdotg-paint-clone.vercel.app/**](https://sharifdotg-paint-clone.vercel.app/)
+- [ ] [*Section 22: Pong (Currently In Progress)*](/Section%2022%20-%20Pong/)
 - [ ] Section 23: Where To Go From Here?
 - [ ] Section 24: Appendix: How JavaScript Works
 - [ ] Section 25: Appendix: Git, Github, Open Source and Building a Portfolio
